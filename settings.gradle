@@ -1,0 +1,8 @@
+include ':hiui'
+include ':hilibrary'
+include ':hi_debugtool'
+include ':app'
+rootProject.name='ASProj'
+
+include ':common'
+

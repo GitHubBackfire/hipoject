@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml:1:1-5:12
+INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml:1:1-5:12
+INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml:1:1-5:12
+INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml:1:1-5:12
+INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml:1:1-5:12
+INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml:1:1-5:12
+INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml
+		INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml
+		ADDED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml:1:1-5:12
+		INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml
+		ADDED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml:1:1-5:12
+		INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml
+INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml
+INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml
+INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml
+		ADDED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml
+		INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml
+		ADDED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml
+		INJECTED from H:\theProject\asproj\hi_debugtool\src\main\AndroidManifest.xml
